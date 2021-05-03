@@ -54,9 +54,7 @@ class _PhonePageState extends State<PhonePage> {
                     Navigator.pushReplacement(
                       context,
                       MaterialPageRoute(
-                        builder: (context) => OtpPage(
-                          phoneNumber: controller.text,
-                        ),
+                        builder: (context) => OtpPage(),
                       ),
                     );
                   }
