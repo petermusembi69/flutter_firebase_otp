@@ -4,7 +4,7 @@ This project is a starting point for a Firebase Phone AUthentication Flutter app
 
 # Todo
 
-Add more information in the the documentation.
+Add more information in the documentation.
 
 # BlogPost Url 
 
