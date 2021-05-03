@@ -3,7 +3,7 @@ import 'package:flutter_firebase_otp/ui/phone_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 
 void main() async {
-    WidgetsFlutterBinding.ensureInitialized();
+  WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
   runApp(MyApp());
 }
