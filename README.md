@@ -1,16 +1,11 @@
 # flutter_firebase_otp
 
-A new Flutter project.
+This project is a starting point for a Firebase Phone AUthentication Flutter application.
 
-## Getting Started
+# Todo
 
-This project is a starting point for a Flutter application.
+Add more information in the the documentation.
 
-A few resources to get you started if this is your first Flutter project:
+# BlogPost Url 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://hashnode.com/post/firebase-phone-authenticationflutter-cko8gfq9t0179n8s15xysg53m"> Hash code blog post</a>
